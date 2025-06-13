@@ -1,0 +1,6 @@
+numero = input("ingrese un número par")
+if numero < 12 print("usted es un niño")
+elif 12 =< numero < 18 print("usted es una adolescente")
+elif 18 =< numero < 30 print("usted es un adulto joven")
+elif numero > 30 print("usted es una adulto")
+input("apretá tecla para continuar")
