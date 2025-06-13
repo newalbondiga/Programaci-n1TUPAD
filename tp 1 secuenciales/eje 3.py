@@ -1,0 +1,6 @@
+nombre = input("dime tu nombre: ")
+apellido = input("dime tu apellido: ")
+edad = input("dime tu edad: ")
+pais = input("dime de qué país eres: ")
+print("mi nombre es ", nombre , "mi apellido es ", apellido, "mi edad es " , edad , "y soy de " , pais)
+input("apretate el enter para finalizar")

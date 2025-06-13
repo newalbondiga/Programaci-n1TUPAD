@@ -1,0 +1,16 @@
+num1 = input("pasame un número y te doy la tabla ")
+num1 = int(num1)
+print("la tabla de " , num1 , "es: ")
+print(num1*1)
+print(num1*2)
+print(num1*3)
+print(num1*4)
+print(num1*5)
+print(num1*6)
+print(num1*7)
+print(num1*8)
+print(num1*9)
+print(num1*10)
+input(" ingresa enter para finalizar ")
+
+
